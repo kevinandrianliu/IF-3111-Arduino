@@ -4,7 +4,7 @@ Tugas Besar IF3111 Platform Based Development - Arduino
 
 # Deskripsi Umum
 
-Permainan Unity Bowling yang dimainkan dengan menggunakan input mouse dan keyboard. Selain itu, pengguna juga dapat mengubah tampilan background, audio, resolusi dan warna bola melalui opsi.
+Sistem Arduino yang memanfaatkan ultrasonic sensor dan sound sensor untuk mendeteksi adanya seseorang dalam jarak tertentu, dan membunyikan alarm ketika terdeteksi. Selain itu, terdapat fitur tambahan seperti mengatur state dari sistem menggunakan keypad(state sistem ditampilkan dalam layar LCD dan 7-segment LCD), serta upload data terhadap server.
 
 # Instalasi Aplikasi
 
