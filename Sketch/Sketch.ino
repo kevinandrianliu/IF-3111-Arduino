@@ -194,7 +194,7 @@ void loop() {
     }
     case 'D': // Test alarm
     {
-      if (condition == 0){
+      if ((condition == 0) || (condition == 3)){
         buzzerCount++;
       
         if (buzzerCount == 0x1){
